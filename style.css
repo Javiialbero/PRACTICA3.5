@@ -1,0 +1,21 @@
+div.titulo{
+    background-color: bisque;
+text-align: center;
+}
+div.links{
+    background-color: greenyellow;
+    text-align: center;
+}
+div.somos{
+    background-color: brown;
+}
+div.primero{
+    background-color: rebeccapurple;
+}
+div.segundo{
+    background-color: aqua;
+    text-align: center;
+}
+span.tercero{
+    background-color: brown;
+}
